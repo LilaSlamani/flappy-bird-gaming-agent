@@ -160,6 +160,3 @@ sauvegarde du meilleur agent) dans `carnet_essais.md`.
   vitesse de décroissance d'epsilon) : les valeurs utilisées sont des
   choix de départ raisonnables, pas le résultat d'un tuning
 
-## Vidéo
-
-Lien : à ajouter une fois enregistrée.
