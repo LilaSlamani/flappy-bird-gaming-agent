@@ -6,8 +6,6 @@ venv/
 env/
 
 # Poids et checkpoints du modèle
-checkpoints/
-*.pt
 *.pth
 *.h5
 *.keras
@@ -25,7 +23,3 @@ logs/
 # Divers
 .DS_Store
 .ipynb_checkpoints/
-
-# Notes perso, pas un livrable
-Roadmap.md
-doc.md
