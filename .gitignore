@@ -1,0 +1,31 @@
+# Environnements Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Poids et checkpoints du modèle
+checkpoints/
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Logs d'entraînement bruts
+runs/
+logs/
+*.log
+
+# Vidéos
+*.mp4
+*.mov
+*.avi
+
+# Divers
+.DS_Store
+.ipynb_checkpoints/
+
+# Notes perso, pas un livrable
+Roadmap.md
+doc.md
